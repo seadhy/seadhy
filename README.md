@@ -2,4 +2,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=seadhy)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1015586149957378188)](https://discord.com/users/1015586149957378188)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1015584854383005696)](https://discord.com/users/1015584854383005696)
