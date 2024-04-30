@@ -9,4 +9,4 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1153732921312694272)](https://discord.com/users/1153732921312694272)
 -
 
-### For contact: seadhy@protonmail.com
+### For contact: seadhy@capsmasher.com
