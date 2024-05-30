@@ -1,5 +1,3 @@
-<h2 align="center">Hi!</h2>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=seadhy)
 
 
